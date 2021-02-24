@@ -1,2 +1,2 @@
-# Ex-men-Recursos-Humanos
+# ExamenRecursosHumanos
 Examen de programación visual Segundo Parcial
